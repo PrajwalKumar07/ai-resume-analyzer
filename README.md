@@ -67,4 +67,5 @@ Sensitive files such as `.env`, `node_modules`, and uploads are excluded using `
 ## Author
 
 Prajwal Kumar
+
 GitHub: https://github.com/PrajwalKumar07/
