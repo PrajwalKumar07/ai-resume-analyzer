@@ -2,7 +2,7 @@
 
 ## Overview
 
-AI-powered Resume Analyzer that evaluates resumes against job descriptions using NLP techniques. The system generates an ATS score, identifies strengths and weaknesses, and highlights missing keywords to improve job matching.
+Built an AI-powered Resume Analyzer that evaluates resumes against job descriptions using LLM-based analysis via API integration, generating ATS scores, identifying strengths and weaknesses, and extracting missing keywords.
 
 ---
 
